@@ -8,7 +8,7 @@ Ejemplo de uso sin parámetros o con la opción --help.
 
 **./OUILookup**
 
-Use: ./OUILookup --ip <IP> | --mac <IP> [--help]
+Use: ./OUILookup --ip <IP<IP>> | --mac <MAC<MAC>> [--help]
     
     --ip : specify the IP of the host to query.
 	--mac: specify the MAC address to query. P.e. aa:bb:cc:00:00:00.
