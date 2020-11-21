@@ -40,3 +40,11 @@ Use: python3 OUILookup.py --ip <IP<IP>> | --mac <MAC<MAC>> [--help]
     
     MAC address : 98:06:3f:92:ff:c5
     Vendor      : Not found
+
+## Modo de uso
+
+En caso de cualquier problema al ejecutar el script instalar lo siguiente
+
+Python utiliza un sistema de gestión y administración de paquetes de sofware:  instalarlo con **sudo apt install python3-pip.** 
+
+También instale el paquete getmac, paquete con el cual se puede obtener dirección MAC de las interfaces de res y los host en la red Local,  **pip3 install getmac**.
