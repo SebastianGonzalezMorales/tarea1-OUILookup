@@ -41,7 +41,7 @@ Use: python3 OUILookup.py --ip <IP<IP>> | --mac <MAC<MAC>> [--help]
     MAC address : 98:06:3f:92:ff:c5
     Vendor      : Not found
 
-## Modo de uso
+## A tener en cuenta
 
 En caso de cualquier problema al ejecutar el script instalar lo siguiente
 
