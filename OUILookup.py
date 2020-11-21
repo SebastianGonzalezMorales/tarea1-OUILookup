@@ -55,7 +55,7 @@ def main():
 
 # Función modo de uso
 def uso():
-    print('\n' "Use: python3" + sys.argv[0] + " --ip <IP> | --mac <MAC> [--help] ")
+    print('\n' "Use: python3 " + sys.argv[0] + " --ip <IP> | --mac <MAC> [--help] ")
     print("\nParametros:")
     print("     --ip: specify the IP of the host to query.")
     print("     --mac: specify the MAC address to query. P.e. aa:bb:cc:00:00:00.")
