@@ -43,7 +43,7 @@ Use: python3 OUILookup.py --ip <IP<IP>> | --mac <MAC<MAC>> [--help]
 
 ## A tener en cuenta
 
-En caso de cualquier problema al ejecutar el script instalar lo siguiente
+En caso de cualquier problema al ejecutar el script instalar lo siguiente:
 
 Python utiliza un sistema de gestión y administración de paquetes de sofware:  instalarlo con **sudo apt install python3-pip.** 
 
