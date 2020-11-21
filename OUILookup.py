@@ -8,9 +8,9 @@
 
 # Modo de uso:
 #
-## python3 OUILookup.py
+# python3 OUILookup.py
 
-#Use: ./python3 OUILookup.py --ip <IP<IP>> | --mac <MAC<MAC>> [--help]
+#Use: python3 OUILookup.py --ip <IP<IP>> | --mac <MAC<MAC>> [--help]
     
 #    --ip : specify the IP of the host to query.
 #	--mac: specify the MAC address to query. P.e. aa:bb:cc:00:00:00.
