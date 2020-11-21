@@ -23,7 +23,7 @@ import requests
 import re
 import ipaddress
 import socket
-from getmac import get_mac_address
+#from getmac import get_mac_address
 
 #Cuerpo principal
 def main():
@@ -96,7 +96,7 @@ def ip():
     tOcteto1 = int(direccionip2[2])
     cOcteto1 = int(direccionip2[3])
     
-    ip_mac = get_mac_address(str(direccionip))
+    #ip_mac = get_mac_address(str(direccionip))
 
     if(primerOcteto >= 1 and primerOcteto <=127	):
         #print("\nGiven IP address belongs to Class A")
