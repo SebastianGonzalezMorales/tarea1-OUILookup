@@ -155,13 +155,13 @@ def mac():
                 uso()
             elif line1 == 4:
                 print("\nMAC address : " + inputvalue)
-                print("\nVendor      : " + line[3])
+                print("Vendor      : " + line[3])
             elif line1 == 3:
                 print("\nMAC address : " + inputvalue)
                 print("Vendor      : " + line[2])
             elif line1 == 2:
                 print("\nMAC address : " + inputvalue)
-                print("\nVendor      : " + line[1])
+                print("Vendor      : " + line[1])
 
             found = True
                
